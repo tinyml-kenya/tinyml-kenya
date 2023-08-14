@@ -24,7 +24,7 @@ At TinyML Kenya, we are a passionate group of enthusiasts, learners,researchers 
 - [Meetup](https://www.meetup.com/tiny-ml-enabling-ultra-low-power-ml-at-the-edge-kenya/)
 - [Twitter](https://twitter.com/tinymlkenya?lang=en)
 
-- If you have any questions or ideas feel free to [reach out to us](tinymlkenya@gmail.com)
+- If you have any questions or ideas feel free to reach out to us at tinymlkenya@gmail.com
 
 ## Explore Our Repositories
 
